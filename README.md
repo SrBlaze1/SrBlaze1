@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=SrBlaze!)](https://git.io/typing-svg)
 
 <div align="center">
-<h3> About me 🙋🏻‍♂️ </h3>
+<h3> Sobre Min 🙋🏻‍♂️ </h3>
  </div>
  
 ##
