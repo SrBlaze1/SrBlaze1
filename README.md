@@ -1,15 +1,21 @@
-<h1> Sou o Carlos mais podem me chamar de SrBlaze</h1>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=SrBlaze!)](https://git.io/typing-svg)
 
+<div align="center">
+<h3> About me 🙋🏻‍♂️ </h3>
+ </div>
+ 
+##
 - 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral. Meu principal foco é aprender sobre a área de gestão.
 -	🎓 Estudante de engenharia de software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
--	🔍 QA Analyst
-- 📕	Product Owner
+-	🔍 Analista de Requisitos
 -	🎮 Gamer
 -	📍  Anápolis - GO
 
 ##
-
+<div align="center">
+<h3> Skill's 👾 </h3>
+ <div align="center">
  <div align="center">
    <a href="https://github.com/SrBlaze1"> <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrBlaze1&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -18,18 +24,25 @@
    
  ##
  <div align="center">
- <h3> Linguagens de programação </h3>
+ <h3> Linguagens de Programação 🗣️ </h3>
    <div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
-  </div>  
+<h3> GIT 🦊 </h3>    
+    <img align="center" alt="GITHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+    <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="GITLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+    
+##
+<h3> Kanban 📚 </h3>    
+    <img align="center" alt="Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
   
   ##
    <div>
