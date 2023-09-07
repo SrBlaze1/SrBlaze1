@@ -5,7 +5,7 @@
  </div>
  
 ##
-- 💻 Estou momentaneamente cursando o 5° Período de Engenharia de Software, estudando linguagens de programação, em geral. Meu principal foco é aprender sobre a área de gestão.
+- 💻 Estou momentaneamente cursando o 6° Período de Engenharia de Software, estudando linguagens de programação, em geral. Meu principal foco é aprender sobre a área de gestão.
 -	🎓 Estudante de engenharia de software na universidade UNIEVANGELICA
 -	👨🏻‍💻 Software Engineer
 -	🔍 Analista de Requisitos
